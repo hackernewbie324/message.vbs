@@ -1,0 +1,3 @@
+x=msgbox("Write down the message you want to write" ,0, "write a title here")
+x=msgbox("Teks Anda Di Sini" ,0, "Judul Anda Di Sini")
+example : x=msgbox("WE ARE FRI3ND TEAM" ,0, "X-ADIM324")
